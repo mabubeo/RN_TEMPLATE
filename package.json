@@ -31,7 +31,7 @@
     "global": "^4.4.0",
     "i18n-js": "^3.5.1",
     "immutable": "^4.0.0-rc.12",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "native-base": "^2.13.8",
     "plop": "^2.5.4",
     "prop-types": "^15.7.2",
